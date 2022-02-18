@@ -186,8 +186,7 @@ export class RectangleComponent{
 }
 ```
 ## OUTPUT:
-
-### Home Page:
-
+![OUTPUT](https://github.com/jithendra2004/AngularCalculation/blob/main/1.png?raw=true)
 
 ## Result:
+Web page for mathematical calculation is successfully created using Angular.
